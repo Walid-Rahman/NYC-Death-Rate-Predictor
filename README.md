@@ -10,5 +10,9 @@ I designed a pipeline that
 3) Offers ability to run different version of the data
 4) Applies a GBM using xgboost to perform predictions. 
 
+
+Function_DRP.ipynb	<- Function for reusability
+NYC_Death_Rate_Pipeline.ipynb <- Main pipeline
+
 Youtube: https://youtu.be/C3YuUUQ4Nic
 
